@@ -13,10 +13,10 @@
         android:theme="@style/Theme.QuanLyThoiGian"
         tools:targetApi="31">
         <activity
-            android:name=".DangKy"
+            android:name=".DangKy1"
             android:exported="false" />
         <activity
-            android:name=".DangNhap"
+            android:name=".DangNhap1"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

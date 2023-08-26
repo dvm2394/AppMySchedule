@@ -1,10 +1,8 @@
 package com.example.quanlythoigian;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.quanlythoigian.databinding.ActivityMainBinding;
 
